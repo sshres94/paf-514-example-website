@@ -1,6 +1,6 @@
 ---
 layout: liquid-table
-title: 'amiright?'
+title: 'Reynolds or Gosling'
 reynolds:
   strengths:
   - good father
@@ -22,7 +22,7 @@ gosling:
 ---
 
 
-
+# Ryan V Ryan Liquid Table
 
 ![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
 
