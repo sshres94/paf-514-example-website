@@ -61,4 +61,4 @@ The instructions above explain how to use Beautiful Jekyll in the easiest way: b
    color: blue
 }
  
-<style>
+</style>
