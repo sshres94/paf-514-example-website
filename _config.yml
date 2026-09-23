@@ -15,7 +15,8 @@ description: Project to practice web development
 author: Sanjay Shrestha
 
 #Define Site URL
-url: https://sshres94.github.io/paf-514-example-website/
+url: https://sshres94.github.io
+baseurl: /paf-514-example-website/
 
 # --- List of links in the navigation bar --- #
 
